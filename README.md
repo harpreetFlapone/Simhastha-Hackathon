@@ -40,3 +40,7 @@ The system creates a unified, AI-powered safety and surveillance platform for me
 3. For operations: Scalable, modular architecture integrating existing CCTV, drones, and cloud systems for nationwide deployment.
 
 This prototype demonstrates how AI, drones, and smart applications can work together to ensure safety, efficiency, and inclusivity at Simhastha 2028—and can be adapted to other mass gatherings across India.
+
+You can preview the dashboard through the link given below-
+
+https://imc.flapone.com/dashboard
