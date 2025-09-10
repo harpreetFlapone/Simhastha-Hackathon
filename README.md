@@ -1,5 +1,7 @@
 AI-Based Surveillance & Crowd Control System
+
 One-Page Summary of Prototype
+
 This prototype is designed for Simhastha 2028, one of the world’s largest human gatherings, where millions of pilgrims are expected. Managing such massive crowds poses serious challenges—ensuring safety, preventing overcrowding, locating missing persons, and enabling quick emergency response.
 Our solution is an AI-powered, unified ecosystem combining a central command dashboard, AI-enabled CCTV and drone surveillance, visitor and police mobile applications, and predictive analytics. Together, they provide a smart, real-time monitoring and crowd management system that enhances safety, efficiency, and visitor experience.
 
